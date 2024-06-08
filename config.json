@@ -1,0 +1,13 @@
+{
+    "ip": "xKUMA59x.aternos.me",
+    "username": "blackman",
+    "port": "19997",
+    "password": "",
+    "prefix": "!",
+    "login-enabled": "false",
+    "register-cmd": "/login kartikopp kartikopp",
+    "login-cmd": "/login kartikopp",
+    "loginmsg": "Hi, this is damer boot, i can do everything. visit DameR's youtube channel to know more! ",
+    "web": "true"
+    
+}
